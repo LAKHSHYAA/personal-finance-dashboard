@@ -21,7 +21,9 @@ Managing personal finances can be challenging due to the fragmentation of financ
 ## **Tools Used**
 *Power BI*
 
+![Screenshot (508)](https://github.com/LAKHSHYAA/personal-finance-dashboard/assets/130828127/44495e2d-9573-4c19-8bde-947e4a827fd3)
 
 
-     ![Screenshot (508)](https://github.com/LAKHSHYAA/personal-finance-dashboard/assets/130828127/91484474-08f4-4bbd-98fc-d8043c15eb0b)
+
+    
 
